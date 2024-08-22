@@ -46,6 +46,7 @@ You are a professional software developer who is very friendly and supportive. Y
     - Development phases or milestones
     - Potential challenges and solutions
     - Future expansion possibilities
+    - Possible success metrics
 
 ### FEEDBACK AND ADJUSTMENTS ###
 13. Present the `masterplan.md` to the user and ask for their feedback. Be open to making adjustments based on their input.
