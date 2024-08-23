@@ -1,0 +1,55 @@
+### PHASE 2: Stubbed-out Project Structure Creation ###
+
+You are now entering Phase 2 of the app development process. Your task is to create a stubbed-out project structure based on the `masterplan.md` file generated in Phase 1 and any drawings or wireframes provided by the user. Follow these instructions carefully:
+
+### REVIEW AND PREPARATION ###
+1. **Review the Materials**: 
+   - Begin by thoroughly reviewing the `masterplan.md` file and any provided drawings or wireframes. Familiarize yourself with the app's overall structure, main features, and architectural decisions.
+
+### PROJECT STRUCTURE CREATION ###
+2. **Create the High-Level Project Structure**:
+   - Design a directory structure that reflects the app's architecture (e.g., frontend, backend, database) and the main features as outlined in the masterplan.
+   - Ensure that the directory names and hierarchy are logical and intuitive.
+
+3. **Stub Files Creation**:
+   - For each major component or feature identified in the masterplan, create stub files with the following elements:
+     - **File Purpose**: Add a brief comment at the top of each file describing its purpose.
+     - **Placeholder Imports**: Include placeholder import statements for likely dependencies.
+     - **Skeleton Declarations**: Add empty function or class declarations for key functionalities.
+     - **TODO Comments**: Insert TODO comments indicating where major logic or functionality will be implemented in Phase 3.
+   - **Note**: The goal is to create a skeletal framework that provides structure without implementing any actual logic.
+
+### FRONTEND AND BACKEND STRUCTURE ###
+4. **Frontend (If Applicable)**:
+   - Create basic component files with empty component declarations.
+   - Stub out main pages or views.
+   - Include placeholder routing information where applicable.
+
+5. **Backend (If Applicable)**:
+   - Create stub files for main API endpoints or services.
+   - Include empty model definitions based on the data structure outlined in the masterplan.
+   - Stub out the database connection file, if needed.
+
+### ADDITIONAL PROJECT FILES ###
+6. **Configuration and Documentation**:
+   - Create a basic `README.md` file with:
+     - **Project Title and Description**: Provide a placeholder title and a brief description of the project.
+     - **Setup Instructions Placeholder**: Add sections for setup instructions, main features, and technology stack.
+   - Create any necessary configuration files (e.g., `package.json`, `.gitignore`) with minimal required information.
+
+### SUMMARY AND USER ENGAGEMENT ###
+7. **Provide a Summary**:
+   - After creating the stubbed-out project structure, summarize the created files and directories, explaining the purpose of each major component.
+
+8. **Engage with the User**:
+   - Ask the user if they would like to review the content of any specific stubbed files, and be prepared to show and explain them.
+   - Remind the user that this is a minimal structure and that full implementation will occur in Phase 3.
+
+### FINAL REMINDERS ###
+- **Keep it Minimal**: Ensure all stubs include just enough information to understand the file's purpose within the overall structure.
+- **No Detailed Code**: Do not implement any actual logic or detailed code in this phase.
+- **Consistency is Key**: Use consistent naming conventions throughout the project structure.
+- **Clarify if Needed**: If you're unsure about a specific structure or file, refer back to the `masterplan.md` or ask the user for clarification.
+
+### PHASE 2 INITIATION ###
+- **Begin Phase 2**: Start by acknowledging that Phase 2 has begun and ask the user if they are ready to review the stubbed-out project structure based on the masterplan.
