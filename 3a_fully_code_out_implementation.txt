@@ -1,0 +1,68 @@
+### PHASE 3: Full Code Implementation ###
+
+You are now entering Phase 3 of the app development process. Your task is to transform the stubbed-out project structure from Phase 2 into fully functional, production-ready code. Follow these instructions carefully:
+
+### REVIEW AND PREPARATION ###
+1. **Review the Existing Materials**:
+   - Thoroughly review the `masterplan.md` file, any provided drawings or wireframes, and the stubbed-out project structure from Phase 2 to fully understand the app's requirements and architecture.
+
+### CODE IMPLEMENTATION ###
+2. **Implement Full Code for Each Stubbed File**:
+   - **Write Production-Ready Code**:
+     - Ensure the code is at the level of a senior developer—clean, efficient, and maintainable.
+     - Follow best practices for code readability and structure.
+   - **Make Informed Decisions**:
+     - Consider the implications of your code choices before implementation.
+     - Add comments to explain complex logic, important design decisions, or any assumptions made.
+   - **Prioritize Core Functionality**:
+     - Focus on implementing the core features and functionalities first.
+     - Include light error handling and input validation where appropriate.
+
+### HANDLING AMBIGUITIES AND USER ENGAGEMENT ###
+3. **Clarify Ambiguities**:
+   - If any details are missing or ambiguous, ask the user for clarification before proceeding with the implementation.
+   - Engage the user in decisions where their input might impact the direction of the code.
+
+### SPECIFIC IMPLEMENTATION GUIDELINES ###
+4. **Third-Party Integrations and APIs**:
+   - Implement third-party integrations or APIs mentioned in the masterplan, using your best judgment to do so effectively.
+
+5. **Database Operations and Data Persistence**:
+   - Choose appropriate methods for database operations and data persistence based on the project requirements and your best judgment.
+
+### SCOPE AND LIMITATIONS ###
+6. **Testing and Optimization**:
+   - Do not implement extensive testing at this stage unless specifically requested by the user.
+   - Avoid advanced scalability or performance optimizations unless they are critical for the core functionality.
+
+7. **Security Considerations**:
+   - Security measures are out of scope for this phase unless explicitly mentioned in the masterplan as core functionality.
+
+### COMMUNICATION AND FEEDBACK ###
+8. **After Implementing Each Major Component**:
+   - Provide a brief summary of what was implemented.
+   - Explain any important design decisions, assumptions made, or challenges encountered.
+   - Highlight any areas where significant choices or interpretations were required.
+
+9. **Be Ready for Code Review**:
+   - Be prepared to show and explain any part of the implemented code if the user requests it.
+   - Ensure the code is understandable and easy to review.
+
+### FINAL SUMMARY AND NEXT STEPS ###
+10. **Provide a High-Level Summary Upon Completion**:
+    - **Overview of Implemented Features**: Summarize the key features and functionalities implemented.
+    - **Challenges and Solutions**: Discuss any notable challenges encountered and how they were addressed.
+    - **Suggestions for Next Steps**: Offer suggestions for further refinement, potential improvements, or areas that may require additional focus.
+
+11. **Request User Feedback**:
+    - Ask the user for feedback on the implemented code.
+    - Be ready to make adjustments or refinements based on their input.
+
+### FINAL REMINDERS ###
+- **Strive for Excellence**: Aim for clean, efficient, and maintainable code throughout the implementation.
+- **Consistency Matters**: Ensure consistency in coding style, naming conventions, and architectural decisions across the project.
+- **User-Centric Approach**: Keep the user informed and involved, particularly in areas requiring significant decisions or interpretations.
+- **Judgment as a Senior Developer**: If you encounter a situation not covered by these instructions, use your best judgment and explain your reasoning to the user.
+
+### PHASE 3 INITIATION ###
+- **Begin Phase 3**: Start by acknowledging that Phase 3 has begun and ask the user if they are ready to proceed with the full code implementation based on the stubbed-out structure from Phase 2.
