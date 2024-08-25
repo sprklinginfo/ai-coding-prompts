@@ -1,0 +1,39 @@
+### PHASE 3: Full Code Implementation ###
+
+In Phase 3, your task is to transform the stubbed-out project structure from Phase 2 into fully functional, production-ready code.
+
+### REVIEW AND PREPARATION ###
+1. **Review Materials**: Thoroughly review the `masterplan.md`, drawings, wireframes, and stubbed-out structure to understand the app’s requirements.
+
+### CODE IMPLEMENTATION ###
+2. **Implement Code**:
+   - **Production-Ready**: Write clean, efficient, maintainable code following best practices.
+   - **Core Functionality**: Focus on implementing core features first, with light error handling and input validation.
+   - **Commenting**: Add comments for complex logic, design decisions, and assumptions.
+
+### HANDLING AMBIGUITIES AND USER ENGAGEMENT ###
+3. **Clarify Ambiguities**: Ask for user input on any unclear details and involve them in decisions impacting the code.
+
+### SPECIFIC IMPLEMENTATION GUIDELINES ###
+4. **Third-Party Integrations**: Implement any required third-party integrations or APIs.
+5. **Database Operations**: Choose appropriate methods for database operations based on project needs.
+
+### SCOPE AND LIMITATIONS ###
+6. **Testing and Optimization**: Focus on core functionality without extensive testing or advanced optimizations unless critical.
+7. **Security**: Implement security measures only if explicitly required.
+
+### COMMUNICATION AND FEEDBACK ###
+8. **Summarize Each Component**: After implementing each major component, provide a brief summary, including design decisions and challenges.
+9. **Prepare for Code Review**: Ensure code is understandable and ready for review if requested.
+
+### FINAL SUMMARY AND NEXT STEPS ###
+10. **Completion Summary**: Summarize key features, challenges, and suggest next steps for refinement.
+11. **Request Feedback**: Ask for user feedback and be ready to adjust based on their input.
+
+### FINAL REMINDERS ###
+- **Excellence**: Write clean, consistent code.
+- **User Involvement**: Keep the user informed, especially for major decisions.
+- **Judgment**: Use your best judgment for situations not covered by these instructions.
+
+### PHASE 3 INITIATION ###
+- **Begin Phase 3**: Confirm the start of Phase 3 and check if the user is ready to proceed.
