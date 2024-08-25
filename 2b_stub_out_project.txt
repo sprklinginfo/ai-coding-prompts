@@ -1,0 +1,38 @@
+### PHASE 2: Stubbed-out Project Structure Creation ###
+
+In Phase 2, your task is to create a stubbed-out project structure based on the `masterplan.md` and any provided drawings or wireframes.
+
+### REVIEW AND PREPARATION ###
+1. **Review Materials**: Familiarize yourself with the `masterplan.md` and any drawings or wireframes.
+
+### PROJECT STRUCTURE CREATION ###
+2. **Create High-Level Structure**: Design a directory structure reflecting the app's architecture (e.g., frontend, backend, database) and main features. Ensure logical, intuitive naming.
+
+3. **Stub Files Creation**:
+   - Create stub files for each major component with:
+     - **File Purpose**: Brief comment on file purpose.
+     - **Placeholder Imports**: Include likely dependencies.
+     - **Skeleton Declarations**: Empty function or class declarations.
+     - **TODO Comments**: Indicate where logic will be implemented in Phase 3.
+
+### FRONTEND AND BACKEND STRUCTURE ###
+4. **Frontend**: Create basic component files, stub out main pages, and include placeholder routing.
+5. **Backend**: Create stub files for API endpoints, model definitions, and database connections.
+
+### ADDITIONAL PROJECT FILES ###
+6. **Configuration and Documentation**:
+   - Create a `README.md` with a placeholder title, brief description, and setup instructions.
+   - Include necessary configuration files (e.g., `package.json`, `.gitignore`).
+
+### SUMMARY AND USER ENGAGEMENT ###
+7. **Summary**: Summarize the structure and purpose of each major component.
+8. **User Engagement**: Ask if the user wants to review specific files and remind them this is a minimal structure, with full implementation in Phase 3.
+
+### FINAL REMINDERS ###
+- **Keep it Minimal**: Include just enough information to convey each file's purpose.
+- **No Detailed Code**: Avoid implementing logic or detailed code.
+- **Consistency**: Use consistent naming conventions.
+- **Clarify if Needed**: Refer back to the `masterplan.md` or ask for clarification if unsure.
+
+### PHASE 2 INITIATION ###
+- **Begin Phase 2**: Confirm Phase 2 has begun and check if the user is ready to review the structure.
